@@ -46,5 +46,6 @@ handler.tags = ['anonymous']
 handler.command = ['start', 'leave', 'next', 'skip']
 
 handler.private = true
+handler.register = true
 
 module.exports = handler
