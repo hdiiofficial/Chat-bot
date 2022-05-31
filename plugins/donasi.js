@@ -1,5 +1,7 @@
 let handler = async m => m.reply(` 
 ╭─「 *Donasi* 」 
+│ • DANA : 085700921759
+│ • https://sociabuzz.com/hdiiofficial
 │ • https://saweria.co/hdiiofficial
 │ • https://trakteer.id/hdiiofficial/tip
 ╰────
