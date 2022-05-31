@@ -19,6 +19,7 @@ try {
   low = require('./lib/lowdb')
 }
 const { Low, JSONFile } = low
+const mongoDB = require('./lib/mongoDB')
 
 const rl = Readline.createInterface(process.stdin, process.stdout)
 const WAConnection = simple.WAConnection(_WAConnection)
