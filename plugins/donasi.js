@@ -1,7 +1,7 @@
 let handler = async m => m.reply(` 
 ╭─「 *Donasi* 」 
-│ • https://saweria.co/ariffb
-│ • https://trakteer.id/ariffb/tip
+│ • https://saweria.co/hdiiofficial
+│ • https://trakteer.id/hdiiofficial/tip
 ╰────
 `.trim())
 handler.help = ['donasi']
